@@ -1,2 +1,2 @@
 # majin
-The Clickteam Fusion Image Viewer
+The Clickteam Fusion Image Processing Program
